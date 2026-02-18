@@ -1,0 +1,1 @@
+# Dynamic schema manager app
